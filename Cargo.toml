@@ -9,3 +9,4 @@ keywords = ["numerics", "floating-point", "kahan", "neumaier", "finance"]
 categories = ["algorithms", "science::mathematics"]
 
 [dependencies]
+compensated-summation = "0.3"

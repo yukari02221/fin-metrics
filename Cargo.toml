@@ -1,0 +1,11 @@
+[package]
+name = "fin-metrics"
+version = "0.1.0"
+edition = "2021"
+description = "Deterministic Sharpe Ratio & PSR with explicit NaN/Inf policy."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/yukari02221/fin-metrics"
+keywords = ["numerics", "floating-point", "kahan", "neumaier", "finance"]
+categories = ["algorithms", "science::mathematics"]
+
+[dependencies]

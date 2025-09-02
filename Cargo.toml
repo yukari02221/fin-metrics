@@ -10,3 +10,4 @@ categories = ["algorithms", "science::mathematics"]
 
 [dependencies]
 compensated-summation = "0.3"
+rand = "0.8"
